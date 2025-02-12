@@ -1,0 +1,99 @@
+import java.util.Scanner;
+
+public class Ch05_practiceSet {
+
+	public static void main(String[] args) {
+		
+//		01.	Print pattern
+//		int n=4;
+//		for(int i=n; i>0; i--) {
+//			for(int j=0; j<i; j++) {
+//				System.out.print("* ");
+//			}
+//			System.out.println();
+//		}
+		
+		
+		
+//		02. write a java program to sum first even numbers using while loop.
+//		Scanner scanner = new Scanner(System.in);
+//		System.out.print("Enter your number:- ");
+//		int num = scanner.nextInt();
+//		int sum=0;
+//		int i=1;
+//		while (i<=num) {
+//			sum = sum+ (2*i);
+//			i++;
+//		}
+//		System.out.println(sum);
+//		scanner.close();
+		
+		
+		
+//		03.	write a java program to print multiplication table of a given number n.
+//		Scanner sc = new Scanner(System.in);
+//		System.out.print("Enter your number:- ");
+//		int num = sc.nextInt();
+//		
+//		for(int i=1; i<=10; i++) {
+//			int prod = i*num;
+//			System.out.println(num+" x "+i+" = "+prod);
+//		}
+//		sc.close();
+		
+		
+		
+//		04.	write a java program to print multiplication table of a given number n in reverse order.
+//		Scanner sc = new Scanner(System.in);
+//		System.out.print("Enter your number:- ");
+//		int num = sc.nextInt();
+//		
+//		for(int i=10; i>=1; i--) {
+//			int prod = i*num;
+//			System.out.println(num+" x "+i+" = "+prod);
+//		}
+//		sc.close();
+		
+		
+		
+//		05.	Factorial of a given number using 'for' loops.
+//		Scanner sc = new Scanner(System.in);
+//		System.out.print("Enter your number:- ");
+//		int numb = sc.nextInt();
+//		
+//		int fact=1;
+//		for(int i=1; i<=numb; i++) {
+//			fact *= i ;
+//		}
+//		System.out.print(fact);
+//		sc.close();
+		
+		
+		
+//		06.	write a program to sum of number occurring in table of 8.
+//		int n=8;
+//		int sum = 0;
+//		
+//		for(int i=1; i<=10; i++) {
+//			sum += n*i;	
+//		}
+//		System.out.print(sum);
+		
+		
+//		07. write a java program to find sum of number occurring in the multiplication table of 8.
+//		int num =8;
+//		int a =1;
+//		int sum=0;
+//
+//		while(a<=10) {
+//			int prod = num*a;
+//			sum+=prod;
+//			a++;
+//		}
+//		System.out.println(sum);
+		
+		
+		
+	}
+
+}

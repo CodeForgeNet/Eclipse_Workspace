@@ -1,0 +1,38 @@
+
+á
+java:S11927"SDefine a constant instead of duplicating this literal "Enter your book id" 3 times.b d32245e3ecc20a641c80d31e7807c0d8h
+~
+java:S1192¨"IDefine a constant instead of duplicating this literal "Enter id" 3 times.b 892c1fd747d53f30d0405a48ed0f148eh
+^
+java:S5413ö")Verify that "remove()" is used correctly.b 7aafe08c7f668294c4f44c8ea9df5809h
+ç
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").b 7dc5cbd10f3ec3322edf15ca798ef2c2h
+]
+java:S5413")Verify that "remove()" is used correctly.b 6cc177d3c98e71e4911424f4316dc061h
+ç
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").b 7dc5cbd10f3ec3322edf15ca798ef2c2h
+˚
+java:S6541"∆A "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 165 to 64, Complexity from 52 to 14, Nesting Level from 6 to 2, Number of Variables from 48 to 6.b fad58de7366495db4650cfefac2fcd61h
+ç
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").b 7dc5cbd10f3ec3322edf15ca798ef2c2h
+á
+java:S1192z"SDefine a constant instead of duplicating this literal "Enter id to remove" 3 times.b 82c2642c9aed1dbe52a6b6ec780519a1h
+ä
+java:S11925"VDefine a constant instead of duplicating this literal "Enter your song genre" 3 times.b 4232998188084b533a9e3ff294d52f7ch
+ê
+java:S11929"\Define a constant instead of duplicating this literal "Enter your song launch year" 3 times.b 201bf3419a94888b60195cc1f74eaedeh
+á
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 159 to the 15 allowed.b fad58de7366495db4650cfefac2fcd61h
+^
+java:S5413…")Verify that "remove()" is used correctly.b 7aafe08c7f668294c4f44c8ea9df5809h
+^
+java:S5413∞")Verify that "remove()" is used correctly.b 6cc177d3c98e71e4911424f4316dc061h
+â
+java:S11921"UDefine a constant instead of duplicating this literal "Enter your song name" 3 times.b 1e256c383dddb18abfcf2892f970f8f7h
+^
+java:S5413å")Verify that "remove()" is used correctly.b 50e5d7cb450849bb3125bca30007a8dfh
+^
+java:S5413Ω")Verify that "remove()" is used correctly.b 50e5d7cb450849bb3125bca30007a8dfh
+å
+java:S11923"XDefine a constant instead of duplicating this literal "Enter songs singer name" 3 times.b a45f25fd6c0169ad09a364783d4f3c4fh

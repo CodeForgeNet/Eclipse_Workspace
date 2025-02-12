@@ -1,0 +1,16 @@
+package loopingStatement;
+
+public class Task9 {
+
+	public static void main(String[] args) {
+		int a= 15;
+		while(a<=40) {
+			if(a%2==0) {
+				a+=a;
+				System.out.println(a);
+			}
+		}
+
+	}
+
+}

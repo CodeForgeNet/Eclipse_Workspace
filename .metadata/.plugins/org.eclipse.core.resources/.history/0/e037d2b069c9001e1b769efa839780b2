@@ -1,0 +1,16 @@
+package loopingStatement;
+
+public class Task8 {
+
+	public static void main(String[] args) {
+		int a= 1;
+		int sum =0;
+		while(a<=5) {
+			sum = sum+a;
+			a++;
+		}
+		System.out.println(a);
+
+	}
+
+}

@@ -1,0 +1,95 @@
+package classAssign;
+
+import java.util.Scanner;
+
+public class ProdController {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.print("Enter Product 1 ID : ");
+		int pId1 = scanner.nextInt();
+		
+		System.out.print("Enter Product 1 Price : ");
+		int pPrice1 = scanner.nextInt();
+		
+		System.out.print("Enter Product 1 Year : ");
+		int pYear1 = scanner.nextInt();
+		
+		
+		System.out.print("Enter Product 2 ID : ");
+		int pId2 = scanner.nextInt();
+		
+		System.out.print("Enter Product 2 Price : ");
+		int pPrice2 = scanner.nextInt();
+		
+		System.out.print("Enter Product 2 Year : ");
+		int pYear2 = scanner.nextInt();
+		
+		
+		System.out.print("Enter Product 3 ID : ");
+		int pId3 = scanner.nextInt();
+		
+		System.out.print("Enter Product 3 Price : ");
+		int pPrice3 = scanner.nextInt();
+		
+		System.out.print("Enter Product 3 Year : ");
+		int pYear3 = scanner.nextInt();
+		
+		
+		Prod1 product1 = new Prod1(pId1, pPrice1, pYear1);
+		Prod2 product2 = new Prod2(pId2, pPrice2, pYear2);
+		Prod3 product3 = new Prod3(pId3, pPrice3, pYear3);
+		
+		
+		int sign = scanner.nextInt();
+		
+		do {
+			System.out.println("Enter '1' for product details & '2' for minimum price of product & '3' for latest launched product ");
+			System.out.println("Enter '0' for Exit ");
+			if(sign==1) {
+				product1.display1();
+				product2.display2();
+				product3.display3();
+				
+				System.out.println("Enter '2' for minimum product price &  '3' for Latest launch product");
+			else if (sign==2) {
+				if(product1.getProd1Price() < product2.getProd2Price() ) {
+					System.out.println("\n\n Lowest Price Product : "  );
+					product1.display1();
+				}else if (product2.getProd2Price() < product3.getProd3Price()) {
+					System.out.println("\n\n Lowest Price Product : "  );
+					product2.display2();
+				}else {
+					System.out.println("\n\n Lowest Price Product : "  );
+					product3.display3();
+				}
+				
+			}else if (sign==3) {
+				if(product1.getProd1Year() > product2.getProd2Year()) {
+					System.out.println("\n\n Latest launch Product : ");
+					product1.display1();
+				}else if (product2.getProd2Year() > product3.getProd3Year()) {
+					System.out.println("\n\n Latest launch Product : ");
+					product2.display2();
+				}else {
+					System.out.println("\n\n Latest launch Product : ");
+					product3.display3();
+				}
+				
+			}else {
+				System.out.println("Exit");
+			}
+			
+			
+		} while (sign!=0);
+		
+		
+//		
+		
+			
+		
+		
+		scanner.close();
+
+}

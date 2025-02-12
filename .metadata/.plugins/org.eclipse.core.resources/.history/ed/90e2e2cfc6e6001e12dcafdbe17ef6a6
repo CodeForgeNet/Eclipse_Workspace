@@ -1,0 +1,40 @@
+package classAssign;
+
+public class Prod2 {
+	private int prod2Id;
+	private int prod2Price;
+	private int prod2Year;
+	
+	public Prod2(int prod2Id,int prod2Price, int prod2Year) {
+		this.prod2Id = prod2Id;
+		this.prod2Price = prod2Price;
+		this.prod2Year = prod2Year;
+	}
+	
+	public void setProd2Id(int prod2I) {
+		prod2Id = prod2I;
+	}
+	public void setProd2Price(int prod2P) {
+		prod2Price = prod2P;
+	}
+	public void setProd2Year(int prod2Y) {
+		prod2Year = prod2Y;
+	}
+	
+	public int getProd2Id() {
+		return prod2Id;
+	}
+	public int getProd2Price() {
+		return prod2Price;
+	}
+	public int getProd2Year() {
+		return prod2Year;
+	}
+	
+	public void display2() {
+		System.out.println("\nProduct Id : " + prod2Id);
+		System.out.println("Product Price : " + prod2Price);
+		System.out.println("Product Year : " + prod2Year);
+	}
+	
+}

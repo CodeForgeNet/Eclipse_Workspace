@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.Revision.Basics&apos; to &apos;com.Revision.Methods&apos;&#x0A;- Original project: &apos;Java_Revision&apos;&#x0A;- Original element: &apos;Java_Revision/src/com.Revision.Basics&apos;&#x0A;- Renamed element: &apos;Java_Revision/src/com.Revision.Methods&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.Revision.Basics&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.Revision.Basics" name="com.Revision.Methods" qualified="false" references="true" stamp="1720523273006" textual="false" version="1.0"/>
+</session>

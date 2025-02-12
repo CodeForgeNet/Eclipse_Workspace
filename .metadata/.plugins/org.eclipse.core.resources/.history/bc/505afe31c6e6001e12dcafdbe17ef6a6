@@ -1,0 +1,42 @@
+package classAssign;
+
+public class Prod3 {
+	private int prod3Id;
+	private int prod3Price;
+	private int prod3Year;
+	
+	public Prod3(int prod3Id,int prod3Price, int prod3Year) {
+		this.prod3Id = prod3Id;
+		this.prod3Price = prod3Price;
+		this.prod3Year = prod3Year;
+	}
+	
+	public void setProd3Id(int prod3I) {
+		prod3Id = prod3I;
+	}
+	public void setProd3Price(int prod3P) {
+		prod3Price = prod3P;
+	}
+	public void setProd3Year(int prod3Y) {
+		prod3Year = prod3Y;
+	}
+	
+	public int getProd3Id() {
+		return prod3Id;
+	}
+	public int getProd3Price() {
+		return prod3Price;
+	}
+	public int getProd3Year() {
+		return prod3Year;
+	}
+	
+	public void display3() {
+		System.out.println("Product 3 Id : " + prod3Id);
+		System.out.println("Product 3 Price : " + prod3Price);
+		System.out.println("Product 3 Year : " + prod3Year);
+	}
+	
+	
+
+}

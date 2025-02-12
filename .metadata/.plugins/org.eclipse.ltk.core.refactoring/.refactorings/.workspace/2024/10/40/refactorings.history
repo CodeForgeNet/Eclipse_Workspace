@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;EKart-consoleBased&apos;" deleteContents="true" description="Delete resource &apos;EKart-consoleBased&apos;" element1="/EKart-consoleBased" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1727878609140"/>
+</session>

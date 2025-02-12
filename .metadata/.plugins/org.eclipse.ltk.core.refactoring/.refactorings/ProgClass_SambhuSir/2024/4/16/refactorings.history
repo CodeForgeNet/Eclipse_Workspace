@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;array.ReverseArr&apos; to &apos;ReverseArrElem&apos;&#x0A;- Original project: &apos;ProgClass_SambhuSir&apos;&#x0A;- Original element: &apos;array.ReverseArr&apos;&#x0A;- Renamed element: &apos;array.ReverseArrElem&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ReverseArr&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;array{ReverseArr.java[ReverseArr" matchStrategy="1" name="ReverseArrElem" qualified="false" references="true" similarDeclarations="false" stamp="1713518882395" textual="false" version="1.0"/>
+</session>

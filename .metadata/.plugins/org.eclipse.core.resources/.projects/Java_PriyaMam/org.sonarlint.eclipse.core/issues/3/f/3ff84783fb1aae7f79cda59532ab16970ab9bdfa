@@ -1,0 +1,6 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b ebb7e4288fc02b8e46753f7d079c0faeh
+ç
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").b d99e931729c7dba9af69460e03d50ab2h
+o
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".8ã∏ˆ–Û1b d55669822f1a8cf72ec1911e462a54ebh

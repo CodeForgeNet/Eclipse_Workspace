@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;array.RemoveElem&apos; to &apos;RmvDuplicateElem&apos;&#x0A;- Original project: &apos;ProgClass_SambhuSir&apos;&#x0A;- Original element: &apos;array.RemoveElem&apos;&#x0A;- Renamed element: &apos;array.RmvDuplicateElem&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RemoveElem&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;array{RemoveElem.java[RemoveElem" matchStrategy="1" name="RmvDuplicateElem" qualified="false" references="true" similarDeclarations="false" stamp="1714032185004" textual="false" version="1.0"/>
+</session>

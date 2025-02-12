@@ -1,0 +1,32 @@
+package bitwise;
+
+import java.util.Scanner;
+
+public class Count_0and1_bits {
+//	 Q. count 0s and 1s bits.
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter number : ");
+		int n = sc.nextInt();
+		
+		int bit0 = 0;
+		int bit1 = 0;
+		while(n>0) {
+			int rem = n%2;
+			if(rem==0)
+				bit0++;
+			else
+				bit1++;
+				
+		n=n/2;		
+			
+		}
+		System.out.println("0 bits : "+bit0);
+		System.out.println("1 bits : "+bit1);
+		
+		sc.close();
+
+	}
+
+}

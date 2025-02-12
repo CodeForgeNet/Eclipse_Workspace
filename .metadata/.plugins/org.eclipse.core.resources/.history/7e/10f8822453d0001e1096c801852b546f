@@ -1,0 +1,10 @@
+
+public class Ch06_arrays {
+
+	public static void main(String[] args) {
+		int [] marks = new int[5]  ;
+		
+
+	}
+
+}

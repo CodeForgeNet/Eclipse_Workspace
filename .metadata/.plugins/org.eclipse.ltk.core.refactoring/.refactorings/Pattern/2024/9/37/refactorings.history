@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.SelfPattern.PatternUnknown&apos; to &apos;RtTriang&apos;&#x0A;- Original project: &apos;Pattern&apos;&#x0A;- Original element: &apos;com.SelfPattern.PatternUnknown&apos;&#x0A;- Renamed element: &apos;com.SelfPattern.RtTriang&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PatternUnknown&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.SelfPattern{PatternUnknown.java[PatternUnknown" matchStrategy="1" name="RtTriang" qualified="false" references="true" similarDeclarations="false" stamp="1726136828153" textual="false" version="1.0"/>
+</session>

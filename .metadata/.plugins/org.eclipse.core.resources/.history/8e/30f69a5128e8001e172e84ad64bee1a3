@@ -1,0 +1,10 @@
+package bitwise;
+
+public class lft_rt_and_rt_lft {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

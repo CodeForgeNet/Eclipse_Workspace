@@ -1,0 +1,10 @@
+
+ç
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").b 3dcbe78839571fd4031cecdb46fc4d0bh
+ç
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").b e7ec2e95d816b363b579b71f9ae3ed45h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 637eb02445ebf7952bffa457b8e30e3ch
+Ü
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.b fad58de7366495db4650cfefac2fcd61h
+`
+java:S1481@",Remove this unused "oldName" local variable.b 185289923ff2879738c10b282fd25371h

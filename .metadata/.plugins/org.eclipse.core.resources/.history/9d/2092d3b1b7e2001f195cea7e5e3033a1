@@ -1,0 +1,21 @@
+package com.nestedClass;
+
+import java.util.Scanner;
+
+public class University {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter length of arr : ");
+		int n = sc.nextInt();
+		int[] sqrArr = new int[n];
+		for(int i=1; i<=n; i++) {
+			int sqr = i*i;
+			for(int j=0; j<n; j++) {
+				sqrArr[0]=sqr;
+			}
+		}
+		for(int a : sqrArr) {
+			System.out.print(a+" ");
+		}
+	}
+}

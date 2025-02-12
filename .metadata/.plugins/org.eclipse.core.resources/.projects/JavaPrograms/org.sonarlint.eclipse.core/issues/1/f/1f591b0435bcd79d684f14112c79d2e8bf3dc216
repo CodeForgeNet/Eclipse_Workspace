@@ -1,0 +1,8 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 8b26521643079dc4b7b26763abd870b8h
+u
+java:S1118":Add a private constructor to hide the implicit public one.8³’Φτ1b 1f287e493fa533584aa5896f13651c50h
+p
+java:S2209"5Change this instance-reference to a static reference.8πωΪτ1b 83878c91171338902e0fe0fb97a8c47ah
+a
+java:S2440"&Remove this instantiation of "Childd".8¦χήτ1b 91683287a889002796dbe0d14c9c3f36h

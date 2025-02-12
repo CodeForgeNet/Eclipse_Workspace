@@ -1,0 +1,48 @@
+package classAssign.Iterator;
+
+import java.util.ArrayList;
+import java.util.ListIterator;
+
+public class PrimeElements {
+	
+	public static int elem( ListIterator li) {
+		
+		
+		while(li.hasNext()) {
+			int a = (int) li.next();
+			
+			if(a<=1) {
+				return -1;
+				
+			}else if (a!=2 && a%2==0) {
+				return -1;
+			}else {
+				for (int i=2; i<=a; i++) {
+					if (a%i==0) {
+						return -1;
+					}
+					}
+				return a;
+				
+				}
+		}
+		return a;
+		
+		
+		
+	}
+	
+	public static void main(String[] args) {
+		ArrayList<Integer> arl = new ArrayList();
+		arl.add(45);
+		arl.add(9);
+		arl.add(67);
+		arl.add(2);
+		arl.add(56);
+		arl.add(11);
+		arl.add(7);
+		
+		ListIterator<Integer> lit = arl.listIterator();
+		System.out.println(elem(lit));
+	}
+}

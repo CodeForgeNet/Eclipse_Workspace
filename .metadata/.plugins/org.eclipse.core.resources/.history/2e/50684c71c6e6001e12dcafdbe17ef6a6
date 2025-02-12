@@ -1,0 +1,74 @@
+package classAssign;
+
+import java.util.Scanner;
+
+public class ProdController {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.print("Enter Product 1 ID : ");
+		int pId1 = scanner.nextInt();
+		
+		System.out.print("Enter Product 1 Price : ");
+		int pPrice1 = scanner.nextInt();
+		
+		System.out.print("Enter Product 1 Year : ");
+		int pYear1 = scanner.nextInt();
+		
+		
+		System.out.print("Enter Product 2 ID : ");
+		int pId2 = scanner.nextInt();
+		
+		System.out.print("Enter Product 2 Price : ");
+		int pPrice2 = scanner.nextInt();
+		
+		System.out.print("Enter Product 2 Year : ");
+		int pYear2 = scanner.nextInt();
+		
+		
+		
+		System.out.print("Enter Product 3 ID : ");
+		int pId3 = scanner.nextInt();
+		
+		System.out.print("Enter Product 3 Price : ");
+		int pPrice3 = scanner.nextInt();
+		
+		System.out.print("Enter Product 3 Year : ");
+		int pYear3 = scanner.nextInt();
+		
+		
+		Prod1 product1 = new Prod1(pId1, pPrice1, pYear1);
+		Prod2 product2 = new Prod2(pId2, pPrice2, pYear2);
+		Prod3 product3 = new Prod3(pId3, pPrice3, pYear3);
+		
+		product1.display1();
+		product2.display2();
+		product3.display3();
+		
+		if(product1.getProd1Price() < product2.getProd2Price() ) {
+			System.out.println("\n Lowest Price Product : "  );
+			product1.display1();
+		}else if (product2.getProd2Price() < product3.getProd3Price()) {
+			System.out.println("\n Lowest Price Product : "  );
+			product2.display2();
+		}else {
+			System.out.println("\n Lowest Price Product : "  );
+			product3.display3();
+		}
+			
+		if(product1.getProd1Year() > product2.getProd2Year()) {
+			System.out.println("\n Latest launch Product : ");
+			product1.display1();
+		}else if (product2.getProd2Year() > product3.getProd3Year()) {
+			System.out.println("\n Latest launch Product : ");
+			product2.display2();
+		}else {
+			System.out.println("\n Latest launch Product : ");
+			product3.display3();
+		}
+		
+		scanner.close();
+	}
+
+}

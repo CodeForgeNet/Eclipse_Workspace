@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;sorting.SortArr&apos; to &apos;SelectionSortArr&apos;&#x0A;- Original project: &apos;StriversDSA&apos;&#x0A;- Original element: &apos;sorting.SortArr&apos;&#x0A;- Renamed element: &apos;sorting.SelectionSortArr&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SortArr&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;sorting{SortArr.java[SortArr" matchStrategy="1" name="SelectionSortArr" qualified="false" references="true" similarDeclarations="false" stamp="1737570208370" textual="false" version="1.0"/>
+</session>
