@@ -1,0 +1,11 @@
+package com.nestedClass;
+
+public class University {
+	  
+	  static class Department{
+		  
+		  String 
+		  
+	  }
+	
+}
