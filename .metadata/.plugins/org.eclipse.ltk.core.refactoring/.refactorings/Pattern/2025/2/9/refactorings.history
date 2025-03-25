@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;selfPattern.SqrDigRowSame&apos; to &apos;SqrDigRowColSameIncrease&apos;&#x0A;- Original project: &apos;Pattern&apos;&#x0A;- Original element: &apos;selfPattern.SqrDigRowSame&apos;&#x0A;- Renamed element: &apos;selfPattern.SqrDigRowColSameIncrease&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SqrDigRowSame&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;selfPattern{SqrDigRowSame.java[SqrDigRowSame" matchStrategy="1" name="SqrDigRowColSameIncrease" qualified="false" references="true" similarDeclarations="false" stamp="1740768426248" textual="false" version="1.0"/>
+</session>

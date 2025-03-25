@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="classAssign.Prod"/>
-    <fullyQualifiedTypeName name="classAssign.Prod1"/>
-    <fullyQualifiedTypeName name="classAssign.Prod2"/>
-    <fullyQualifiedTypeName name="classAssign.Prod3"/>
-    <fullyQualifiedTypeName name="java.lang.Number"/>
     <fullyQualifiedTypeName name="classAssign.studentTask.ScoreCard1"/>
     <fullyQualifiedTypeName name="classAssign.studentTask.Student"/>
     <fullyQualifiedTypeName name="classAssign.studentTask.ScoreCard"/>
@@ -59,5 +54,10 @@
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="com.nestedClass.University.Department"/>
+    <fullyQualifiedTypeName name="com.nestedClass.Library"/>
+    <fullyQualifiedTypeName name="com.nestedClass.Library.Book"/>
+    <fullyQualifiedTypeName name="com.nestedClass.MathUtil"/>
+    <fullyQualifiedTypeName name="com.nestedClass.MathUtil.Calculator"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
