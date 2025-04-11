@@ -24,17 +24,10 @@ public class SelectionSortArr {
 			int mini=i;
 			for(int j=i+1; j<n; j++) {
 				if(arr[j]<arr[mini]) {
-					mini=j;
+					mini=arr[j];
 				}
 			}
-			int temp = arr[mini];
-			arr[mini]=arr[i];
-			arr[i]=temp;
-		}
-		
-		System.out.println("After selection sort: ");
-		for(int elem : arr) {
-			System.out.print(elem+" "); 
+			int temp = mini;
 		}
 	}
 	

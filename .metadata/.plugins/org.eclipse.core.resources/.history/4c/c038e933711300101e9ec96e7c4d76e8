@@ -32,10 +32,11 @@ public class SelectionSortArr {
 			arr[i]=temp;
 		}
 		
-		System.out.println("After selection sort: ");
-		for(int elem : arr) {
-			System.out.print(elem+" "); 
-		}
+		System.out.println("After bubble sort: ");
+        for (int i = 0; i < n; i++) {
+            System.out.print(arr[i] + " ");
+        }
+        System.out.println();
 	}
 	
 	public static void main(String[] args) {

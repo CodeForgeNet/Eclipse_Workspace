@@ -31,11 +31,6 @@ public class SelectionSortArr {
 			arr[mini]=arr[i];
 			arr[i]=temp;
 		}
-		
-		System.out.println("After selection sort: ");
-		for(int elem : arr) {
-			System.out.print(elem+" "); 
-		}
 	}
 	
 	public static void main(String[] args) {

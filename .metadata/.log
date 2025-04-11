@@ -8764,3 +8764,541 @@ For more information, check the blog post at https://a.co/cUPnyil
 
 !ENTRY org.eclipse.lsp4e 1 0 2025-03-25 10:00:50.831
 !MESSAGE [Info]	[2025-03-25T04:30:50.830Z] Configuration updated to include suggestions with code references
+!SESSION 2025-04-07 09:24:14.398 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-07 09:24:16.888
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-07 09:24:24.778
+!MESSAGE Logback config file: /Users/karansingh/Desktop/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 09:24:25.607
+!MESSAGE Attempting to re-authenticate...
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 09:24:33.967
+!MESSAGE Validated and fetched latest manifest
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 09:24:36.641
+!MESSAGE Launching Amazon Q language server v2.3.2 from local cache /Users/karansingh/Desktop/eclipse-workspace/.metadata/.plugins/amazon-q-eclipse/lsp/AmazonQ/2.3.2 (Attribution notice for aws-lsp-codewhisperer.js can be found at: https://aws-language-servers.us-east-1.amazonaws.com/600cd9f4-ffc9-4279-818c-35242ee7b095/THIRD_PARTY_LICENSES)
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 09:24:38.031
+!MESSAGE Initializing communication with Amazon Q Lsp Server
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:39.375
+!MESSAGE [Info]	Runtime: Registering IAM credentials update handler
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-04-07 09:24:39.375
+!MESSAGE [Error]	(node:20760) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:39.375
+!MESSAGE [Info]	[2025-04-07T03:54:39.370Z] Amazon Q Inline Suggestion server has been initialised
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:39.375
+!MESSAGE [Info]	Runtime: Initializing runtime with encryption
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:39.376
+!MESSAGE [Info]	Runtime: Registering bearer credentials update handler
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:39.376
+!MESSAGE [Info]	[2025-04-07T03:54:39.369Z] Q Chat server has been initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:39.376
+!MESSAGE [Info]	[2025-04-07T03:54:39.368Z] SecurityScan server has been initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:39.376
+!MESSAGE [Info]	[2025-04-07T03:54:39.371Z] Creating identity server.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:39.376
+!MESSAGE [Info]	[2025-04-07T03:54:39.371Z] Amazon Q Customization server has been initialised
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:40.784
+!MESSAGE [Info]	[2025-04-07T03:54:39.384Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:40.784
+!MESSAGE [Info]	[2025-04-07T03:54:39.386Z] Returning client registration.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:40.784
+!MESSAGE [Info]	[2025-04-07T03:54:39.388Z] Calling SSO OIDC to refresh SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:40.786
+!MESSAGE [Info]	[2025-04-07T03:54:40.785Z] Chat configuration updated to use undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:40.786
+!MESSAGE [Info]	[2025-04-07T03:54:40.785Z] Inline completion configuration updated to use undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:40.786
+!MESSAGE [Info]	[2025-04-07T03:54:40.786Z] Configuration updated to include suggestions with code references
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:40.786
+!MESSAGE [Info]	[2025-04-07T03:54:40.786Z] Configuration updated to share Amazon Q content with AWS
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.707
+!MESSAGE [Info]	[2025-04-07T03:54:41.706Z] Caching refreshed SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.708
+!MESSAGE [Info]	[2025-04-07T03:54:41.706Z] Storing SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.711
+!MESSAGE [Info]	[2025-04-07T03:54:41.709Z] Notifying client SSO token was refreshed.
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 09:24:41.712
+!MESSAGE Processing REFRESHEDssoTokenChanged notification...
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 09:24:41.712
+!MESSAGE Attempting to re-authenticate...
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.713
+!MESSAGE [Info]	[2025-04-07T03:54:41.710Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.715
+!MESSAGE [Info]	[2025-04-07T03:54:41.711Z] SSO token before refresh window.  Returning current SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.715
+!MESSAGE [Info]	[2025-04-07T03:54:41.711Z] Successfully retrieved existing or newly authenticated SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.716
+!MESSAGE [Info]	[2025-04-07T03:54:41.711Z] Auto-refreshing SSO token in 3319713.8178164843 milliseconds.
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 09:24:41.774
+!MESSAGE Successfully logged in
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 09:24:41.775
+!MESSAGE Triggering configuration pull from Amazon Q LSP server
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.776
+!MESSAGE [Info]	[2025-04-07T03:54:41.716Z] SSO token unwatched and will not be auto-refreshed.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.776
+!MESSAGE [Info]	[2025-04-07T03:54:41.717Z] Successfully retrieved existing or newly authenticated SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.776
+!MESSAGE [Info]	[2025-04-07T03:54:41.717Z] Auto-refreshing SSO token in 3319805.327215546 milliseconds.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.776
+!MESSAGE [Info]	[2025-04-07T03:54:41.716Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.776
+!MESSAGE [Info]	[2025-04-07T03:54:41.717Z] SSO token before refresh window.  Returning current SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.776
+!MESSAGE [Info]	[2025-04-07T03:54:41.715Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.776
+!MESSAGE [Info]	[2025-04-07T03:54:41.716Z] SSO token before refresh window.  Returning current SSO token.
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 09:24:41.776
+!MESSAGE Successfully logged in
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 09:24:41.777
+!MESSAGE Triggering configuration pull from Amazon Q LSP server
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.777
+!MESSAGE [Info]	Runtime: Decoding encrypted credentials token
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.777
+!MESSAGE [Info]	Runtime: Successfully saved bearer credentials
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.777
+!MESSAGE [Info]	Decoding JWT token
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.777
+!MESSAGE [Info]	Runtime: Decoding encrypted credentials token
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.777
+!MESSAGE [Info]	Decoding JWT token
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.778
+!MESSAGE [Info]	Runtime: Successfully saved bearer credentials
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.778
+!MESSAGE [Info]	[2025-04-07T03:54:41.778Z] Chat configuration updated to use undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.778
+!MESSAGE [Info]	[2025-04-07T03:54:41.778Z] Inline completion configuration updated to use undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.778
+!MESSAGE [Info]	Runtime: Connection metadata updated
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.778
+!MESSAGE [Info]	[2025-04-07T03:54:41.778Z] Chat configuration updated to use undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.778
+!MESSAGE [Info]	[2025-04-07T03:54:41.778Z] Inline completion configuration updated to use undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.778
+!MESSAGE [Info]	Runtime: Connection metadata updated
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.779
+!MESSAGE [Info]	[2025-04-07T03:54:41.778Z] Configuration updated to share Amazon Q content with AWS
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.779
+!MESSAGE [Info]	[2025-04-07T03:54:41.778Z] Configuration updated to include suggestions with code references
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.779
+!MESSAGE [Info]	[2025-04-07T03:54:41.778Z] Configuration updated to share Amazon Q content with AWS
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 09:24:41.779
+!MESSAGE [Info]	[2025-04-07T03:54:41.778Z] Configuration updated to include suggestions with code references
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:01.531
+!MESSAGE [Info]	[2025-04-07T04:50:01.509Z] SSO token unwatched and will not be auto-refreshed.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:01.533
+!MESSAGE [Info]	[2025-04-07T04:50:01.513Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:01.553
+!MESSAGE [Info]	[2025-04-07T04:50:01.530Z] Returning client registration.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:01.554
+!MESSAGE [Info]	[2025-04-07T04:50:01.534Z] Calling SSO OIDC to refresh SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.642
+!MESSAGE [Info]	[2025-04-07T04:50:07.641Z] Caching refreshed SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.643
+!MESSAGE [Info]	[2025-04-07T04:50:07.641Z] Storing SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.645
+!MESSAGE [Info]	[2025-04-07T04:50:07.644Z] Notifying client SSO token was refreshed.
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 10:20:07.646
+!MESSAGE Processing REFRESHEDssoTokenChanged notification...
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 10:20:07.646
+!MESSAGE Attempting to re-authenticate...
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.648
+!MESSAGE [Info]	[2025-04-07T04:50:07.645Z] Auto-refreshing SSO token in 3316117.059801436 milliseconds.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.650
+!MESSAGE [Info]	[2025-04-07T04:50:07.650Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.651
+!MESSAGE [Info]	[2025-04-07T04:50:07.651Z] SSO token before refresh window.  Returning current SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.651
+!MESSAGE [Info]	[2025-04-07T04:50:07.651Z] SSO token unwatched and will not be auto-refreshed.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.651
+!MESSAGE [Info]	[2025-04-07T04:50:07.651Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.653
+!MESSAGE [Info]	[2025-04-07T04:50:07.651Z] SSO token before refresh window.  Returning current SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.653
+!MESSAGE [Info]	[2025-04-07T04:50:07.651Z] Auto-refreshing SSO token in 3321127.844300219 milliseconds.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.654
+!MESSAGE [Info]	[2025-04-07T04:50:07.651Z] Successfully retrieved existing or newly authenticated SSO token.
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 10:20:07.658
+!MESSAGE Successfully logged in
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 10:20:07.659
+!MESSAGE Triggering configuration pull from Amazon Q LSP server
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.659
+!MESSAGE [Info]	Runtime: Decoding encrypted credentials token
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.659
+!MESSAGE [Info]	Runtime: Successfully saved bearer credentials
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.659
+!MESSAGE [Info]	Decoding JWT token
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.660
+!MESSAGE [Info]	Runtime: Connection metadata updated
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.660
+!MESSAGE [Info]	[2025-04-07T04:50:07.660Z] Inline completion configuration updated to use undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.660
+!MESSAGE [Info]	[2025-04-07T04:50:07.660Z] Chat configuration updated to use undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.660
+!MESSAGE [Info]	[2025-04-07T04:50:07.660Z] Configuration updated to include suggestions with code references
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 10:20:07.661
+!MESSAGE [Info]	[2025-04-07T04:50:07.660Z] Configuration updated to share Amazon Q content with AWS
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:28.716
+!MESSAGE [Info]	[2025-04-07T05:45:28.695Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:28.717
+!MESSAGE [Info]	[2025-04-07T05:45:28.692Z] SSO token unwatched and will not be auto-refreshed.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:28.728
+!MESSAGE [Info]	[2025-04-07T05:45:28.712Z] Returning client registration.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:28.728
+!MESSAGE [Info]	[2025-04-07T05:45:28.714Z] Calling SSO OIDC to refresh SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.090
+!MESSAGE [Info]	[2025-04-07T05:45:35.089Z] Caching refreshed SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.091
+!MESSAGE [Info]	[2025-04-07T05:45:35.089Z] Storing SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.093
+!MESSAGE [Info]	[2025-04-07T05:45:35.091Z] Notifying client SSO token was refreshed.
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 11:15:35.094
+!MESSAGE Processing REFRESHEDssoTokenChanged notification...
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 11:15:35.094
+!MESSAGE Attempting to re-authenticate...
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.097
+!MESSAGE [Info]	[2025-04-07T05:45:35.092Z] Auto-refreshing SSO token in 3321028.093727636 milliseconds.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.098
+!MESSAGE [Info]	[2025-04-07T05:45:35.097Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.098
+!MESSAGE [Info]	[2025-04-07T05:45:35.098Z] SSO token before refresh window.  Returning current SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.098
+!MESSAGE [Info]	[2025-04-07T05:45:35.098Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.099
+!MESSAGE [Info]	[2025-04-07T05:45:35.098Z] SSO token unwatched and will not be auto-refreshed.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.101
+!MESSAGE [Info]	[2025-04-07T05:45:35.099Z] SSO token before refresh window.  Returning current SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.101
+!MESSAGE [Info]	[2025-04-07T05:45:35.099Z] Successfully retrieved existing or newly authenticated SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.101
+!MESSAGE [Info]	[2025-04-07T05:45:35.099Z] Auto-refreshing SSO token in 3319324.2952881474 milliseconds.
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 11:15:35.106
+!MESSAGE Successfully logged in
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 11:15:35.107
+!MESSAGE Triggering configuration pull from Amazon Q LSP server
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.107
+!MESSAGE [Info]	Runtime: Decoding encrypted credentials token
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.108
+!MESSAGE [Info]	Runtime: Successfully saved bearer credentials
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.108
+!MESSAGE [Info]	Decoding JWT token
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.109
+!MESSAGE [Info]	Runtime: Connection metadata updated
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.109
+!MESSAGE [Info]	[2025-04-07T05:45:35.109Z] Inline completion configuration updated to use undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.109
+!MESSAGE [Info]	[2025-04-07T05:45:35.108Z] Chat configuration updated to use undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.109
+!MESSAGE [Info]	[2025-04-07T05:45:35.109Z] Configuration updated to include suggestions with code references
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 11:15:35.110
+!MESSAGE [Info]	[2025-04-07T05:45:35.109Z] Configuration updated to share Amazon Q content with AWS
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:10:54.382
+!MESSAGE [Info]	[2025-04-07T06:40:54.358Z] SSO token unwatched and will not be auto-refreshed.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:10:54.384
+!MESSAGE [Info]	[2025-04-07T06:40:54.361Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:10:54.398
+!MESSAGE [Info]	[2025-04-07T06:40:54.377Z] Returning client registration.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:10:54.398
+!MESSAGE [Info]	[2025-04-07T06:40:54.380Z] Calling SSO OIDC to refresh SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.021
+!MESSAGE [Info]	[2025-04-07T06:41:00.013Z] Caching refreshed SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.024
+!MESSAGE [Info]	[2025-04-07T06:41:00.013Z] Storing SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.024
+!MESSAGE [Info]	[2025-04-07T06:41:00.015Z] Notifying client SSO token was refreshed.
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 12:11:00.025
+!MESSAGE Processing REFRESHEDssoTokenChanged notification...
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 12:11:00.026
+!MESSAGE Attempting to re-authenticate...
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.028
+!MESSAGE [Info]	[2025-04-07T06:41:00.016Z] Auto-refreshing SSO token in 3317713.1654135953 milliseconds.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.032
+!MESSAGE [Info]	[2025-04-07T06:41:00.030Z] SSO token before refresh window.  Returning current SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.032
+!MESSAGE [Info]	[2025-04-07T06:41:00.029Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.032
+!MESSAGE [Info]	[2025-04-07T06:41:00.030Z] SSO token unwatched and will not be auto-refreshed.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.033
+!MESSAGE [Info]	[2025-04-07T06:41:00.030Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.033
+!MESSAGE [Info]	[2025-04-07T06:41:00.030Z] SSO token before refresh window.  Returning current SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.033
+!MESSAGE [Info]	[2025-04-07T06:41:00.031Z] Auto-refreshing SSO token in 3322963.3741482073 milliseconds.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.034
+!MESSAGE [Info]	[2025-04-07T06:41:00.031Z] Successfully retrieved existing or newly authenticated SSO token.
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 12:11:00.039
+!MESSAGE Successfully logged in
+
+!ENTRY amazon-q-eclipse 1 0 2025-04-07 12:11:00.040
+!MESSAGE Triggering configuration pull from Amazon Q LSP server
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.040
+!MESSAGE [Info]	Runtime: Successfully saved bearer credentials
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.041
+!MESSAGE [Info]	Runtime: Decoding encrypted credentials token
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.041
+!MESSAGE [Info]	Decoding JWT token
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.042
+!MESSAGE [Info]	Runtime: Connection metadata updated
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.042
+!MESSAGE [Info]	[2025-04-07T06:41:00.041Z] Chat configuration updated to use undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.042
+!MESSAGE [Info]	[2025-04-07T06:41:00.042Z] Inline completion configuration updated to use undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.043
+!MESSAGE [Info]	[2025-04-07T06:41:00.043Z] Configuration updated to include suggestions with code references
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 12:11:00.043
+!MESSAGE [Info]	[2025-04-07T06:41:00.043Z] Configuration updated to share Amazon Q content with AWS
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 13:14:02.119
+!MESSAGE [Info]	[2025-04-07T07:44:02.108Z] Retrieving SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 13:14:02.121
+!MESSAGE [Info]	[2025-04-07T07:44:02.106Z] SSO token unwatched and will not be auto-refreshed.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 13:14:02.134
+!MESSAGE [Info]	[2025-04-07T07:44:02.124Z] Calling SSO OIDC to refresh SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 13:14:02.134
+!MESSAGE [Info]	[2025-04-07T07:44:02.121Z] Returning client registration.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 13:14:02.145
+!MESSAGE [Info]	[2025-04-07T07:44:02.144Z] Error when attempting to refresh SSO token.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-07 13:14:02.145
+!MESSAGE [Info]	[2025-04-07T07:44:02.145Z] SSO token does not exist, was invalidated, or session has expired and will not be auto-refreshed.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-04-07 16:14:27.651
+!MESSAGE Exception occurred in AWS SDK background task.
+!STACK 0
+software.amazon.awssdk.core.exception.SdkClientException: Received an UnknownHostException when attempting to interact with a service. See cause for the exact endpoint that is failing to resolve. If this is happening on an endpoint that previously worked, there may be a network connectivity issue or your DNS cache could be storing endpoints for too long.
+	at software.amazon.awssdk.core.exception.SdkClientException$BuilderImpl.build(SdkClientException.java:111)
+	at software.amazon.awssdk.awscore.interceptor.HelpfulUnknownHostExceptionInterceptor.modifyException(HelpfulUnknownHostExceptionInterceptor.java:59)
+	at software.amazon.awssdk.core.interceptor.ExecutionInterceptorChain.modifyException(ExecutionInterceptorChain.java:181)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.utils.ExceptionReportingUtils.runModifyException(ExceptionReportingUtils.java:54)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.utils.ExceptionReportingUtils.reportFailureToInterceptors(ExceptionReportingUtils.java:38)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.ExecutionFailureExceptionReportingStage.execute(ExecutionFailureExceptionReportingStage.java:39)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.ExecutionFailureExceptionReportingStage.execute(ExecutionFailureExceptionReportingStage.java:26)
+	at software.amazon.awssdk.core.internal.http.AmazonSyncHttpClient$RequestExecutionBuilderImpl.execute(AmazonSyncHttpClient.java:210)
+	at software.amazon.awssdk.core.internal.handler.BaseSyncClientHandler.invoke(BaseSyncClientHandler.java:103)
+	at software.amazon.awssdk.core.internal.handler.BaseSyncClientHandler.doExecute(BaseSyncClientHandler.java:173)
+	at software.amazon.awssdk.core.internal.handler.BaseSyncClientHandler.lambda$execute$1(BaseSyncClientHandler.java:80)
+	at software.amazon.awssdk.core.internal.handler.BaseSyncClientHandler.measureApiCallSuccess(BaseSyncClientHandler.java:182)
+	at software.amazon.awssdk.core.internal.handler.BaseSyncClientHandler.execute(BaseSyncClientHandler.java:74)
+	at software.amazon.awssdk.core.client.handler.SdkSyncClientHandler.execute(SdkSyncClientHandler.java:45)
+	at software.amazon.awssdk.awscore.client.handler.AwsSyncClientHandler.execute(AwsSyncClientHandler.java:53)
+	at software.amazon.awssdk.services.cognitoidentity.DefaultCognitoIdentityClient.getId(DefaultCognitoIdentityClient.java:645)
+	at software.aws.toolkits.eclipse.amazonq.telemetry.AwsCognitoCredentialsProvider.getIdentityId(AwsCognitoCredentialsProvider.java:58)
+	at software.aws.toolkits.eclipse.amazonq.telemetry.AwsCognitoCredentialsProvider.updateCognitoCredentials(AwsCognitoCredentialsProvider.java:39)
+	at software.amazon.awssdk.utils.cache.CachedSupplier.lambda$jitteredPrefetchValueSupplier$8(CachedSupplier.java:300)
+	at software.amazon.awssdk.utils.cache.NonBlocking.fetch(NonBlocking.java:151)
+	at software.amazon.awssdk.utils.cache.CachedSupplier.refreshCache(CachedSupplier.java:208)
+	at software.amazon.awssdk.utils.cache.CachedSupplier.get(CachedSupplier.java:135)
+	at software.amazon.awssdk.utils.cache.NonBlocking.lambda$tryRunBackgroundTask$9(NonBlocking.java:222)
+	at software.amazon.awssdk.utils.cache.NonBlocking.runWithInstanceThreadName(NonBlocking.java:242)
+	at software.amazon.awssdk.utils.cache.NonBlocking.lambda$tryRunBackgroundTask$10(NonBlocking.java:220)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: software.amazon.awssdk.core.exception.SdkClientException: Unable to execute HTTP request: cognito-identity.us-east-1.amazonaws.com
+	at software.amazon.awssdk.core.exception.SdkClientException$BuilderImpl.build(SdkClientException.java:111)
+	at software.amazon.awssdk.core.exception.SdkClientException.create(SdkClientException.java:47)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.utils.RetryableStageHelper2.setLastException(RetryableStageHelper2.java:226)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.RetryableStage2.execute(RetryableStage2.java:65)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.RetryableStage2.execute(RetryableStage2.java:36)
+	at software.amazon.awssdk.core.internal.http.pipeline.RequestPipelineBuilder$ComposingRequestPipelineStage.execute(RequestPipelineBuilder.java:206)
+	at software.amazon.awssdk.core.internal.http.StreamManagingStage.execute(StreamManagingStage.java:53)
+	at software.amazon.awssdk.core.internal.http.StreamManagingStage.execute(StreamManagingStage.java:35)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.ApiCallTimeoutTrackingStage.executeWithTimer(ApiCallTimeoutTrackingStage.java:82)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.ApiCallTimeoutTrackingStage.execute(ApiCallTimeoutTrackingStage.java:62)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.ApiCallTimeoutTrackingStage.execute(ApiCallTimeoutTrackingStage.java:43)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.ApiCallMetricCollectionStage.execute(ApiCallMetricCollectionStage.java:50)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.ApiCallMetricCollectionStage.execute(ApiCallMetricCollectionStage.java:32)
+	at software.amazon.awssdk.core.internal.http.pipeline.RequestPipelineBuilder$ComposingRequestPipelineStage.execute(RequestPipelineBuilder.java:206)
+	at software.amazon.awssdk.core.internal.http.pipeline.RequestPipelineBuilder$ComposingRequestPipelineStage.execute(RequestPipelineBuilder.java:206)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.ExecutionFailureExceptionReportingStage.execute(ExecutionFailureExceptionReportingStage.java:37)
+	... 24 more
+	Suppressed: software.amazon.awssdk.core.exception.SdkClientException: Request attempt 1 failure: Unable to execute HTTP request: cognito-identity.us-east-1.amazonaws.com: nodename nor servname provided, or not known
+	Suppressed: software.amazon.awssdk.core.exception.SdkClientException: Request attempt 2 failure: Unable to execute HTTP request: cognito-identity.us-east-1.amazonaws.com
+Caused by: java.net.UnknownHostException: cognito-identity.us-east-1.amazonaws.com
+	at java.base/java.net.InetAddress$CachedLookup.get(InetAddress.java:988)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1818)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1688)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at software.amazon.awssdk.http.apache.internal.conn.ClientConnectionManagerFactory$DelegatingHttpClientConnectionManager.connect(ClientConnectionManagerFactory.java:86)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at software.amazon.awssdk.http.apache.internal.impl.ApacheSdkHttpClient.execute(ApacheSdkHttpClient.java:72)
+	at software.amazon.awssdk.http.apache.ApacheHttpClient.execute(ApacheHttpClient.java:254)
+	at software.amazon.awssdk.http.apache.ApacheHttpClient.access$500(ApacheHttpClient.java:104)
+	at software.amazon.awssdk.http.apache.ApacheHttpClient$1.call(ApacheHttpClient.java:231)
+	at software.amazon.awssdk.http.apache.ApacheHttpClient$1.call(ApacheHttpClient.java:228)
+	at software.amazon.awssdk.core.internal.util.MetricUtils.measureDurationUnsafe(MetricUtils.java:99)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.MakeHttpRequestStage.executeHttpRequest(MakeHttpRequestStage.java:79)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.MakeHttpRequestStage.execute(MakeHttpRequestStage.java:57)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.MakeHttpRequestStage.execute(MakeHttpRequestStage.java:40)
+	at software.amazon.awssdk.core.internal.http.pipeline.RequestPipelineBuilder$ComposingRequestPipelineStage.execute(RequestPipelineBuilder.java:206)
+	at software.amazon.awssdk.core.internal.http.pipeline.RequestPipelineBuilder$ComposingRequestPipelineStage.execute(RequestPipelineBuilder.java:206)
+	at software.amazon.awssdk.core.internal.http.pipeline.RequestPipelineBuilder$ComposingRequestPipelineStage.execute(RequestPipelineBuilder.java:206)
+	at software.amazon.awssdk.core.internal.http.pipeline.RequestPipelineBuilder$ComposingRequestPipelineStage.execute(RequestPipelineBuilder.java:206)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.ApiCallAttemptTimeoutTrackingStage.execute(ApiCallAttemptTimeoutTrackingStage.java:74)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.ApiCallAttemptTimeoutTrackingStage.execute(ApiCallAttemptTimeoutTrackingStage.java:43)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.TimeoutExceptionHandlingStage.execute(TimeoutExceptionHandlingStage.java:79)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.TimeoutExceptionHandlingStage.execute(TimeoutExceptionHandlingStage.java:41)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.ApiCallAttemptMetricCollectionStage.execute(ApiCallAttemptMetricCollectionStage.java:55)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.ApiCallAttemptMetricCollectionStage.execute(ApiCallAttemptMetricCollectionStage.java:39)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.RetryableStage2.executeRequest(RetryableStage2.java:93)
+	at software.amazon.awssdk.core.internal.http.pipeline.stages.RetryableStage2.execute(RetryableStage2.java:56)
+	... 36 more
