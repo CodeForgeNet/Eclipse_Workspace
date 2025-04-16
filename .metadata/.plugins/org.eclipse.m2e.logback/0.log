@@ -1812,3 +1812,15 @@ Caused by: java.net.UnknownHostException: cognito-identity.us-east-1.amazonaws.c
 	at software.amazon.awssdk.core.internal.http.pipeline.stages.RetryableStage2.executeRequest(RetryableStage2.java:93)
 	at software.amazon.awssdk.core.internal.http.pipeline.stages.RetryableStage2.execute(RetryableStage2.java:56)
 	... 36 common frames omitted
+2025-04-15 10:06:58,864 [main] INFO  org.eclipse.jetty.server.Server - jetty-12.0.12; built: 2024-07-25T21:58:37.668Z; git: cc6f1b74db755fed228b50701ad967aeaa68e83f; jvm 21.0.5+11-LTS
+2025-04-15 10:06:58,880 [main] INFO  o.e.j.server.handler.ContextHandler - Started oejsh.ContextHandler@747132ca{ROOT,/,b=null,a=AVAILABLE,vh=[127.0.0.1],h=oejsh.ResourceHandler@6e54a659{STARTED}}
+2025-04-15 10:06:58,885 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3cfcb7c3{HTTP/1.1, (http/1.1)}{0.0.0.0:59383}
+2025-04-15 10:06:58,929 [main] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@142f0f23{STARTING}[12.0.12,sto=0] @1098589ms
+2025-04-15 10:07:06,741 [main] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@142f0f23{STOPPING}[12.0.12,sto=0]
+2025-04-15 10:07:06,746 [main] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3cfcb7c3{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2025-04-15 10:07:07,987 [main] INFO  org.eclipse.jetty.server.Server - jetty-12.0.12; built: 2024-07-25T21:58:37.668Z; git: cc6f1b74db755fed228b50701ad967aeaa68e83f; jvm 21.0.5+11-LTS
+2025-04-15 10:07:07,988 [main] INFO  o.e.j.server.handler.ContextHandler - Started oejsh.ContextHandler@550c1666{ROOT,/,b=null,a=AVAILABLE,vh=[127.0.0.1],h=oejsh.ResourceHandler@189a31cd{STARTED}}
+2025-04-15 10:07:07,988 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2e7b0b4d{HTTP/1.1, (http/1.1)}{0.0.0.0:59386}
+2025-04-15 10:07:07,989 [main] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@6fcd1891{STARTING}[12.0.12,sto=0] @1107648ms
+2025-04-15 11:28:09,149 [Framework stop - Equinox Container: d0c953f7-6b18-41c1-8a63-9136d057156a] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@6fcd1891{STOPPING}[12.0.12,sto=0]
+2025-04-15 11:28:09,157 [Framework stop - Equinox Container: d0c953f7-6b18-41c1-8a63-9136d057156a] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2e7b0b4d{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
