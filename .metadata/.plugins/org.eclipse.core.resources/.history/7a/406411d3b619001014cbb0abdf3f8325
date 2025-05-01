@@ -1,9 +1,0 @@
-package sorting;
-
-public class InsertionSortArr {
-
-	public static void main(String[] args) {
-		
-	}
-
-}
