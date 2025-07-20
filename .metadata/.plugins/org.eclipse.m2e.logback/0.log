@@ -1824,3 +1824,5 @@ Caused by: java.net.UnknownHostException: cognito-identity.us-east-1.amazonaws.c
 2025-04-15 10:07:07,989 [main] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@6fcd1891{STARTING}[12.0.12,sto=0] @1107648ms
 2025-04-15 11:28:09,149 [Framework stop - Equinox Container: d0c953f7-6b18-41c1-8a63-9136d057156a] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@6fcd1891{STOPPING}[12.0.12,sto=0]
 2025-04-15 11:28:09,157 [Framework stop - Equinox Container: d0c953f7-6b18-41c1-8a63-9136d057156a] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2e7b0b4d{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2025-07-20 09:29:55,632 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-07-20 09:31:25,199 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

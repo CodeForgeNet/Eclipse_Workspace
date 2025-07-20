@@ -18,6 +18,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/karansingh/Desktop/Eclipse_Workspace"/>
 			<item value="/Users/karansingh/Desktop/eclipse-workspace/DSA_TUF"/>
 			<item value="/Users/karansingh/Desktop/Advance_JAVA"/>
 			<item value="/Users/karansingh/Desktop/eclipse-workspace/Prog_Class_sambhuSir"/>
