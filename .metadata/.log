@@ -15491,3 +15491,9 @@ Java Model Exception: Error in Java Model (code 1006): <project root> [in SmrtPr
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 !SUBENTRY 1 org.eclipse.jdt.core 4 1006 2025-07-22 17:27:05.150
 !MESSAGE <project root> [in SmrtPrgm_Algo] is not on its project's build path
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-07-22 17:44:55.990
+!MESSAGE [Info] Document is null for editor: BubbleSort.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-07-22 17:44:55.990
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/SmrtPrgm_Algo/src/com/cfn/sorting/BubbleSort.java
