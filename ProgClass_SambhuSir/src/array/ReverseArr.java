@@ -17,7 +17,7 @@ public class ReverseArr {
 		}
 		
 		for(int i=d.length-1; i>=0; i--) {
-			System.out.println(d[i]+" ");
+			System.out.print(d[i]+", ");
 		}
 
 	}

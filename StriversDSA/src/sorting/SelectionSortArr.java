@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 // swap happen at index 0 and min no. index ( 0 to n-1)
 // swap happen at index 1 and min no. index ( 1 to n-1) and so on.
-// it select 0 index then find minm in all then swap to 0 index, and the 0 index no goes to swaped index. Then do same but from 1st index coz 0 index is swaped already.
+// it select 0 index then find minm in all then swap to 0 index, and the 0 index no. goes to swaped index. Then do same but from 1st index coz 0 index is swaped already.
 
 
 // Best, Worst, Average Time complexity is = O(n^2)
@@ -27,8 +27,13 @@ public class SelectionSortArr {
 //		}
 //	}
 	
+	
+	
+	
+//	**BEST***
+	
 	public static void sortArr(int[] arr, int n) {
-		for(int i=0; i<i-1; i++) {
+		for(int i=0; i<n-1; i++) {
 			int mini=i;
 			for(int j=i+1; j<n; j++) {
 				if(arr[j]<arr[mini]) {

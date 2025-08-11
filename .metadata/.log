@@ -15634,3 +15634,117 @@ Binding(ALT+CTRL+SHIFT+T,
 
 !ENTRY org.eclipse.lsp4e 1 0 2025-08-11 16:30:54.652
 !MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 17:47:22.197
+!MESSAGE [Info] Document is null for editor: ReverseArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 17:47:22.197
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/ProgClass_SambhuSir/src/array/ReverseArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 17:50:05.629
+!MESSAGE [Info] Document is null for editor: ReverseArrElem.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 17:50:05.629
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/ProgClass_SambhuSir/src/array/ReverseArrElem.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 17:59:04.056
+!MESSAGE [Info] Document is null for editor: SwapTwoIndexVal.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 17:59:04.058
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/ProgClass_SambhuSir/src/array/SwapTwoIndexVal.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:29:51.693
+!MESSAGE [Info] Document is null for editor: NameNtimes.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:29:51.693
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/recursion/NameNtimes.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:29:51.715
+!MESSAGE [Info] Document is null for editor: PrintNLinearly.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:29:51.715
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/recursion/PrintNLinearly.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:29:51.729
+!MESSAGE [Info] Document is null for editor: PrintNLinearlyOpp.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:29:51.729
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/recursion/PrintNLinearlyOpp.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:29:51.742
+!MESSAGE [Info] Document is null for editor: SumFirstNno.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:29:51.742
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/recursion/SumFirstNno.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:29:51.757
+!MESSAGE [Info] Document is null for editor: ReverseArray.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:29:51.757
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/recursion/ReverseArray.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:29:51.794
+!MESSAGE [Info] Document is null for editor: PalindromeStringCheck.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:29:51.795
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/recursion/PalindromeStringCheck.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:49:21.199
+!MESSAGE [Info] Document is null for editor: FindNthFibonacci.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 19:49:21.202
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/recursion/FindNthFibonacci.java
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 21:26:27.093
+!MESSAGE [Info]	[fetchChat] Request 2aa9b0bc-e135-49a5-9edb-73f964a016a3 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 1198.7284170016646ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 21:26:33.857
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [tool_calls]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 21:26:35.181
+!MESSAGE [Info]	[fetchChat] Request 4eadca79-8907-4981-b99c-eafae668ca3e at <https://proxy.individual.githubcopilot.com/chat/completions> finished with 200 status after 1323.0985410027206ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 21:26:36.656
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 21:26:38.044
+!MESSAGE [Info]	[fetchChat] Request bde81092-0d24-49df-a014-6692be75ffd2 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 901.152999997139ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 21:26:38.580
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 21:26:39.109
+!MESSAGE [Info]	[fetchChat] Request 01205b67-6fb7-44dd-af70-1d1369555d90 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 494.03645800054073ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 21:26:39.379
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 21:39:03.159
+!MESSAGE [Info] Document is null for editor: Occurrence.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 21:39:03.167
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/hashing/Occurrence.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 22:18:38.949
+!MESSAGE [Info] Document is null for editor: OccurrenceByMap.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 22:18:38.950
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/hashing/OccurrenceByMap.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 22:55:49.923
+!MESSAGE [Info] Document is null for editor: InsertionSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 22:55:49.924
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/InsertionSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 22:55:49.942
+!MESSAGE [Info] Document is null for editor: BubbleSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 22:55:49.943
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/BubbleSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 22:55:49.992
+!MESSAGE [Info] Document is null for editor: SelectionSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 22:55:49.993
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/SelectionSortArr.java
