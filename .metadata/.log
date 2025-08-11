@@ -15497,3 +15497,140 @@ Java Model Exception: Error in Java Model (code 1006): <project root> [in SmrtPr
 
 !ENTRY com.microsoft.copilot.eclipse 1 0 2025-07-22 17:44:55.990
 !MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/SmrtPrgm_Algo/src/com/cfn/sorting/BubbleSort.java
+!SESSION 2025-08-09 15:25:01.758 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-09 15:25:03.171
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-09 15:25:14.758
+!MESSAGE Logback config file: /Users/karansingh/Desktop/Eclipse_Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-09 15:25:17.855
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-09 15:25:18.190
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2025-08-09 15:25:18.513
+!MESSAGE Authorization Server started successfuly
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 15:25:19.630
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.339.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 15:25:19.908
+!MESSAGE [Info]	[certificates] Removed 5 expired certificates
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-09 15:29:03.383
+!MESSAGE [Info] Document is null for editor: BookTheaterSeat.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-09 15:29:03.384
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/JavaPrograms/src/multiThreading/BookTheaterSeat.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-09 16:23:00.682
+!MESSAGE [Info] Document is null for editor: Person.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-09 16:23:00.682
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/Java_PriyaMam/src/com/Oops/Relationship/IsA/Person.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-10 00:24:36.365
+!MESSAGE [Info] Document is null for editor: BODMAS.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-10 00:24:36.366
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/ProgClass_SambhuSir/src/string/BODMAS.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-10 02:09:14.275
+!MESSAGE [Info] Document is null for editor: BODMAS.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-10 02:09:14.275
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/ProgClass_SambhuSir/src/string/BODMAS.java
+!SESSION 2025-08-11 16:29:45.802 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-11 16:29:47.215
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-08-11 16:29:47.356
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (1174) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-11 16:29:57.387
+!MESSAGE Logback config file: /Users/karansingh/Desktop/Eclipse_Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.jface 2 0 2025-08-11 16:29:58.894
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-08-11 16:29:58.894
+!MESSAGE A conflict occurred for ALT+CTRL+SHIFT+T:
+Binding(ALT+CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.terminal.view.ui.command.launchToolbar,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.terminal.view.ui.command.launchToolbar"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.view.ui.command.launchToolbar,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.tm.terminal.view.ui.command.launchToolbar"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 16:30:01.346
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 16:30:01.721
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2025-08-11 16:30:02.535
+!MESSAGE Authorization Server started successfuly
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 16:30:03.675
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.348.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 16:30:03.893
+!MESSAGE [Info]	[certificates] Removed 5 expired certificates
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 16:30:06.491
+!MESSAGE [Info] Document is null for editor: BODMAS.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-11 16:30:06.491
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/ProgClass_SambhuSir/src/string/BODMAS.java
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 16:30:48.233
+!MESSAGE [Info]	[default] Context provider relatedFilesShim exceeded time budget of 150ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 16:30:49.530
+!MESSAGE [Info]	[fetchCompletions] Request 25b7b569-b889-4997-be76-3abe191e40c8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1295.0521249999947ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 16:30:51.380
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 16:30:51.761
+!MESSAGE [Info]	[fetchCompletions] Request b4750b69-590d-4ee9-9660-c0f4997ebeab at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 365.479416999995ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 16:30:52.098
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 16:30:52.577
+!MESSAGE [Info]	[fetchCompletions] Request b974d6ba-0e27-469b-b6b3-9d3b5c697ccf at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 382.11054200000217ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 16:30:52.695
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 16:30:54.554
+!MESSAGE [Info]	[fetchCompletions] Request 5165c6f9-7cc7-4bce-b68a-832c2533bb92 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 395.3511670000007ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-11 16:30:54.652
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
