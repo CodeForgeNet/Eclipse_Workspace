@@ -15839,3 +15839,39 @@ Binding(ALT+CTRL+SHIFT+T,
 
 !ENTRY org.eclipse.lsp4e 1 0 2025-08-12 09:29:16.141
 !MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 09:45:15.587
+!MESSAGE [Info] Document is null for editor: BubbleSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 09:45:15.587
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/BubbleSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 09:45:16.348
+!MESSAGE [Info] Document is null for editor: SelectionSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 09:45:16.348
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/SelectionSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 13:42:40.094
+!MESSAGE [Info] Document is null for editor: InsertionSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 13:42:40.095
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/InsertionSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 13:42:40.108
+!MESSAGE [Info] Document is null for editor: SelectionSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 13:42:40.108
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/SelectionSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 13:42:40.117
+!MESSAGE [Info] Document is null for editor: BubbleSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 13:42:40.118
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/BubbleSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 13:42:40.131
+!MESSAGE [Info] Document is null for editor: MergeSort.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 13:42:40.132
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/MergeSort.java
