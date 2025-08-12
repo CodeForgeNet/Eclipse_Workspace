@@ -10,27 +10,7 @@ import java.util.Scanner;
 
 // Best, Worst, Average Time complexity is = O(n^2)
 
-public class SelectionSortArr {
-	
-//	public static void sortArr(int[] arr, int arrLen) {
-//		for(int i=0; i<arrLen-1; i++) {
-//			for(int j=i+1; j<arrLen; j++) {
-//				if(arr[j]<arr[i]) {
-//					int temp = arr[i];
-//					arr[i]=arr[j];
-//					arr[j]=temp;
-//				}
-//			}
-//		}
-//		for(int elem : arr) {
-//			System.out.print(elem+" "); 
-//		}
-//	}
-	
-	
-	
-	
-//	**BEST***
+public class SelectionSortArr {	
 	
 	public static void sortArr(int[] arr, int n) {
 		for(int i=0; i<n-1; i++) {
