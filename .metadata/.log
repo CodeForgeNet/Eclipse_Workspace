@@ -15875,3 +15875,385 @@ Binding(ALT+CTRL+SHIFT+T,
 
 !ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 13:42:40.132
 !MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/MergeSort.java
+!SESSION 2025-08-12 16:21:23.728 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-12 16:21:25.369
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-08-12 16:21:25.518
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (1174) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-12 16:21:35.835
+!MESSAGE Logback config file: /Users/karansingh/Desktop/Eclipse_Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.jface 2 0 2025-08-12 16:21:37.360
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-08-12 16:21:37.361
+!MESSAGE A conflict occurred for ALT+CTRL+SHIFT+T:
+Binding(ALT+CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.terminal.view.ui.command.launchToolbar,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.terminal.view.ui.command.launchToolbar"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.view.ui.command.launchToolbar,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.tm.terminal.view.ui.command.launchToolbar"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 16:21:39.802
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 16:21:40.147
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2025-08-12 16:21:40.880
+!MESSAGE Authorization Server started successfuly
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 16:21:42.044
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.348.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 16:21:42.300
+!MESSAGE [Info]	[certificates] Removed 5 expired certificates
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 16:23:16.940
+!MESSAGE [Info]	[default] Context provider relatedFilesShim exceeded time budget of 150ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 16:23:18.217
+!MESSAGE [Info]	[fetchCompletions] Request 6c706eec-926f-4661-8c1f-4e96b277aa76 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1273.8985829999874ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 16:23:18.323
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 17:06:26.071
+!MESSAGE [Info]	[fetchChat] Request 5c00359e-7298-45f3-a0a9-d8b82d9490eb at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 1076.7177919996902ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 17:06:39.787
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [tool_calls]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 17:06:41.030
+!MESSAGE [Info]	[fetchChat] Request b3c8f33c-d901-4ec2-b4ed-f4e65d9c1c30 at <https://proxy.individual.githubcopilot.com/chat/completions> finished with 200 status after 1239.0909170000814ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 17:06:46.185
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 17:06:47.553
+!MESSAGE [Info]	[fetchChat] Request d78a44d4-418a-4d98-9d13-52fe1657d6c5 at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 864.414500000421ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 17:06:48.420
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 17:06:48.987
+!MESSAGE [Info]	[fetchChat] Request ecab6206-fd4a-4619-9a7b-4091d3bb6c2d at <https://api.individual.githubcopilot.com/chat/completions> finished with 200 status after 521.0833330000751ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 17:06:49.141
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 18:32:51.538
+!MESSAGE [Info] Document is null for editor: InsertionSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 18:32:51.538
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/InsertionSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 18:32:51.551
+!MESSAGE [Info] Document is null for editor: SelectionSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 18:32:51.552
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/SelectionSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 18:32:51.559
+!MESSAGE [Info] Document is null for editor: BubbleSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 18:32:51.560
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/BubbleSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 18:32:51.570
+!MESSAGE [Info] Document is null for editor: MergeSort.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 18:32:51.570
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/MergeSort.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 18:32:51.584
+!MESSAGE [Info] Document is null for editor: QuickSort.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 18:32:51.584
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/QuickSort.java
+!SESSION 2025-08-12 23:40:28.785 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-12 23:40:30.161
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-08-12 23:40:30.306
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (1174) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-12 23:40:41.562
+!MESSAGE Logback config file: /Users/karansingh/Desktop/Eclipse_Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.jface 2 0 2025-08-12 23:40:43.049
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-08-12 23:40:43.049
+!MESSAGE A conflict occurred for ALT+CTRL+SHIFT+T:
+Binding(ALT+CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.terminal.view.ui.command.launchToolbar,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.terminal.view.ui.command.launchToolbar"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.view.ui.command.launchToolbar,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.tm.terminal.view.ui.command.launchToolbar"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 23:40:45.620
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 23:40:45.922
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2025-08-12 23:40:46.699
+!MESSAGE Authorization Server started successfuly
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 23:40:48.103
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.348.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-12 23:40:48.304
+!MESSAGE [Info]	[certificates] Removed 5 expired certificates
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 23:48:26.347
+!MESSAGE [Info] Document is null for editor: QuickSort.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 23:48:26.348
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/QuickSort.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 23:48:26.367
+!MESSAGE [Info] Document is null for editor: MergeSort.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-12 23:48:26.367
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/MergeSort.java
+!SESSION 2025-08-13 08:55:38.550 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-13 08:55:40.928
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-08-13 08:55:41.096
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (1174) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-13 08:55:46.091
+!MESSAGE Logback config file: /Users/karansingh/Desktop/Eclipse_Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.jface 2 0 2025-08-13 08:55:47.604
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-08-13 08:55:47.604
+!MESSAGE A conflict occurred for ALT+CTRL+SHIFT+T:
+Binding(ALT+CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.terminal.view.ui.command.launchToolbar,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.terminal.view.ui.command.launchToolbar"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.view.ui.command.launchToolbar,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.tm.terminal.view.ui.command.launchToolbar"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-13 08:55:50.258
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-13 08:55:50.663
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2025-08-13 08:55:51.492
+!MESSAGE Authorization Server started successfuly
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 08:55:51.939
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.348.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 08:55:52.152
+!MESSAGE [Info]	[certificates] Removed 5 expired certificates
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-13 10:15:37.958
+!MESSAGE [Info] Document is null for editor: MergeSort.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-13 10:15:37.959
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/MergeSort.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-13 13:10:18.004
+!MESSAGE [Info] Document is null for editor: BiggestandSecondBiggest.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-13 13:10:18.006
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/ProgClass_SambhuSir/src/array/BiggestandSecondBiggest.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-13 13:10:18.026
+!MESSAGE [Info] Document is null for editor: SmallestAndSecondSmallest.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-13 13:10:18.026
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/ProgClass_SambhuSir/src/array/SmallestAndSecondSmallest.java
+!SESSION 2025-08-15 12:32:57.101 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-15 12:32:58.489
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-08-15 12:32:58.632
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (1174) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-15 12:33:10.389
+!MESSAGE Logback config file: /Users/karansingh/Desktop/Eclipse_Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.jface 2 0 2025-08-15 12:33:11.865
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-08-15 12:33:11.865
+!MESSAGE A conflict occurred for ALT+CTRL+SHIFT+T:
+Binding(ALT+CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.terminal.view.ui.command.launchToolbar,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.terminal.view.ui.command.launchToolbar"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.view.ui.command.launchToolbar,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.tm.terminal.view.ui.command.launchToolbar"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-15 12:33:14.378
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-15 12:33:14.666
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2025-08-15 12:33:15.350
+!MESSAGE Authorization Server started successfuly
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:33:17.021
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.348.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:33:17.214
+!MESSAGE [Info]	[certificates] Removed 6 expired certificates
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:33:45.288
+!MESSAGE [Info]	[default] Context provider relatedFilesShim exceeded time budget of 150ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:33:46.422
+!MESSAGE [Info]	[fetchCompletions] Request e3ca26f4-7df0-4402-884f-b279200563df at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1127.8890839999985ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:33:46.664
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:33:46.954
+!MESSAGE [Info]	[fetchCompletions] Request 345dba5b-f3a7-43f3-b82d-509b91044662 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 276.06516700000066ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:33:47.036
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:33:49.641
+!MESSAGE [Info]	[fetchCompletions] Request 05c28645-9e00-4887-9c76-00076abd4476 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 304.6962500000009ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:33:49.736
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:33:53.852
+!MESSAGE [Info]	[fetchCompletions] Request 01be61a0-2216-4456-a5a3-d156022bb5ef at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 254.76458300000377ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:33:53.889
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:38:54.754
+!MESSAGE [Info]	[fetchCompletions] Request 37767446-e6e9-4906-b065-dbfc80df0667 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 775.2372500000056ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:38:55.613
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:38:55.952
+!MESSAGE [Info]	[fetchCompletions] Request 685a5c83-d688-4204-b127-0a7b0e864f92 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 327.58070799999405ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:38:55.998
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:39:02.063
+!MESSAGE [Info]	[fetchCompletions] Request cf426054-dd06-4cfb-9322-2b57bd46c82f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 373.0307080000057ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:39:02.545
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:39:02.861
+!MESSAGE [Info]	[fetchCompletions] Request 1206a991-af87-43eb-a3e3-ed4d360e3d64 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 303.69570800004294ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:39:02.947
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:39:03.750
+!MESSAGE [Info]	[fetchCompletions] Request e846d67b-8895-4bad-9540-6842219df873 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 309.5307909999974ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-15 12:39:03.906
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-15 13:17:45.428
+!MESSAGE [Info] Document is null for editor: JustRoughEx.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-15 13:17:45.429
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/JustRoughEx.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-15 13:17:48.669
+!MESSAGE [Info] Document is null for editor: SmallestAndSecondSmallest.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-15 13:17:48.669
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/ProgClass_SambhuSir/src/array/SmallestAndSecondSmallest.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-15 13:17:48.676
+!MESSAGE [Info] Document is null for editor: MergeSort.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-15 13:17:48.677
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/MergeSort.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-15 13:17:48.687
+!MESSAGE [Info] Document is null for editor: BubbleSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-15 13:17:48.687
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/BubbleSortArr.java

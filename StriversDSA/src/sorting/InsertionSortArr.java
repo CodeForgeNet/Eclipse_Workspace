@@ -1,6 +1,6 @@
 package sorting;
 
-//	Take and element and places it in correct order. Like it take i=0 then 0-1 then 0-2 then 0-3 and so on. simultaneously swap it to its best position.
+//	Take an element and places it in correct order. Like it take i=0 then 0-1 then 0-2 then 0-3 and so on. simultaneously swap it to its best position.
 
 // Average & Worst TC => O(n^2)
 // Best TC => O(n)

@@ -3,6 +3,8 @@ package sorting;
 import java.util.ArrayList;
 
 // Divide and Merge
+// Time Complexity: O(nlogn)
+// Space Complexity: O(n)
 
 public class MergeSort {
 	
