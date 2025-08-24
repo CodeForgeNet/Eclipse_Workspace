@@ -16257,3 +16257,133 @@ Binding(ALT+CTRL+SHIFT+T,
 
 !ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-15 13:17:48.687
 !MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/BubbleSortArr.java
+!SESSION 2025-08-20 12:22:30.947 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/karansingh/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-20 12:22:32.703
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-08-20 12:22:32.844
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (1174) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-20 12:22:51.084
+!MESSAGE Logback config file: /Users/karansingh/Desktop/Eclipse_Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.jface 2 0 2025-08-20 12:22:52.651
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-08-20 12:22:52.651
+!MESSAGE A conflict occurred for ALT+CTRL+SHIFT+T:
+Binding(ALT+CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.terminal.view.ui.command.launchToolbar,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.terminal.view.ui.command.launchToolbar"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.view.ui.command.launchToolbar,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.tm.terminal.view.ui.command.launchToolbar"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-20 12:22:55.713
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-20 12:22:56.224
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2025-08-20 12:22:57.043
+!MESSAGE Authorization Server started successfuly
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:22:57.924
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.348.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:22:58.138
+!MESSAGE [Info]	[certificates] Removed 6 expired certificates
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:26:59.891
+!MESSAGE [Info]	[default] Context provider relatedFilesShim exceeded time budget of 150ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:00.639
+!MESSAGE [Info]	[fetchCompletions] Request 7beef6f0-793d-405b-a9fa-1e50149de1e7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 743.2127909999981ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:01.248
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:01.537
+!MESSAGE [Info]	[fetchCompletions] Request a582d27e-651f-4ec2-9aa5-f35da37698e6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 269.4584999999788ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:01.584
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:07.767
+!MESSAGE [Info]	[fetchCompletions] Request d5f5d8dc-c21c-4452-9e25-72945353cec1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 266.60524999999325ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:07.813
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:08.181
+!MESSAGE [Info]	[fetchCompletions] Request ecbe4035-fbca-450d-8428-b92111f26ed2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 243.87283300000126ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:08.612
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:08.869
+!MESSAGE [Info]	[fetchCompletions] Request 01d4b260-1859-440f-aabc-3d39d977e533 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 244.19758399997954ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:08.930
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:09.520
+!MESSAGE [Info]	[fetchCompletions] Request 8d9bf713-2c40-4025-9513-5b30ab789461 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 276.20704199999454ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:09.577
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:10.968
+!MESSAGE [Info]	[fetchCompletions] Request cecb4fe1-3075-4473-b196-899da425cd70 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 484.4235000000044ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:10.989
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:41.645
+!MESSAGE [Info]	[fetchCompletions] Request bb2cfd8b-6c88-49db-9711-cce892f31721 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 258.9994580000057ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:27:41.688
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:28:20.160
+!MESSAGE [Info]	[fetchCompletions] Request 1f96e83a-7dc5-411b-bcdd-d026a3f6bd49 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 247.40037499996834ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:28:20.306
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:28:21.959
+!MESSAGE [Info]	[fetchCompletions] Request c5195351-734c-4d13-86df-7dc4dfc1689f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 261.2707919999957ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-20 12:28:21.994
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-20 12:31:10.120
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/Test.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-20 12:45:17.627
+!MESSAGE [Info] Document is null for editor: BubbleSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-20 12:45:17.629
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/BubbleSortArr.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-20 12:45:17.729
+!MESSAGE [Info] Document is null for editor: Example.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-20 12:45:17.729
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/karansingh/Desktop/Eclipse_Workspace/StriversDSA/src/sorting/Test.java
